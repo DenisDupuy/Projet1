@@ -1,0 +1,75 @@
+/*
+ * cvdenisdupuy.css
+ * 
+ * Copyright 2017 DenisDupuy <denis@denis-ThinkPad-T420>
+ */
+ 
+/* html
+ */
+
+html {
+    font-family: 'Merriweather';
+    font-size: 13pt;
+    background-color: #E0F8F7;
+    padding: 0;
+    margin: 0;
+	}
+	
+/* cadres
+ */
+
+.boiteblanche {
+	margin-right: 100px;
+	margin-left: 240px;
+    background-color: #E0F8F7;
+    padding: 10px;
+    }
+
+.boitebleue {
+	margin-right: 100px;
+	margin-left: 250px;
+    background-color: #b3b3e6;
+    padding: 10px;
+    border-radius: 10px;
+    }
+
+.boiteA {
+	margin-right: 100px;
+	margin-left: 250px;
+    background-color: #ffb4b1;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    
+.boiteB {
+	margin-right: 100px;
+	margin-left: 250px;
+    background-color: #ffb478;
+    padding: 10px;
+    border-radius: 10px;
+    }
+
+.border {
+	margin-right: 100px;
+	margin-left: 250px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+	}
+
+/* colonne gauche
+ */
+ 
+.photo {
+	float: left;
+	position: fixed;
+	}
+
+/* tabulation
+ */
+
+.marge {
+margin-left: 620px;
+}
+
+
